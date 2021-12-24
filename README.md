@@ -1,5 +1,5 @@
 # Hesap-Makinesi
-->> Gelişmiş Hesap Makinesi
+>>> Gelişmiş Hesap Makinesi
 
 ->> dikdörtgenin alanı ve çevresini hesaplama
 
