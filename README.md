@@ -1,6 +1,8 @@
 # Hesap-Makinesi
 >>> Gelişmiş Hesap Makinesi
 
+->> Normal İşlemleri hesaplama (toplama,çıkarma,bölme,çarpma)
+
 ->> dikdörtgenin alanı ve çevresini hesaplama
 
 ->> faktöriyel hesaplama 
